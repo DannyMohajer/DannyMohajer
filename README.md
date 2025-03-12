@@ -1,6 +1,6 @@
 ## 💫 About Me:
 Hello, I'm Daniel Mohajer! 👋  
-I'm a passionate Flutter developer with 2 years of experience in developing mobile applications.  
+I'm a passionate Flutter developer with 3 years of experience in developing mobile applications.  
 Currently, I'm working towards becoming a full-stack developer by learning Python, Django, and DRF.
 
 ### 🛠️ Technologies & Tools
